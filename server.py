@@ -8,3 +8,9 @@ app = FastAPI()
 @app.get('/sanity')
 async def get_sanity():
     return "Server is up and running smoothly"
+
+
+print ("the beach branch")
+
+
+print ("Im in the forest")
